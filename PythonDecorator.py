@@ -1,3 +1,4 @@
+# 装饰器
 from time import ctime, sleep
 
 print("===== 1 无参数的函数 =====")
